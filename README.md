@@ -19,7 +19,7 @@ Here are some of the projects I've worked on:
 
 ## Skills
 
-- List your Python, JavaScript, Sci-kit learn
+- Python, JavaScript, Sci-kit learn
 
 ## Contact
 

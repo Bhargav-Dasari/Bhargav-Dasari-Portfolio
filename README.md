@@ -12,6 +12,9 @@ Welcome to my GitHub portfolio! I'm Bhargav Dasari, passionate about AI and Mach
 ## Projects
 
 Here are some of the projects I've worked on:
+1. **Project Name**: [Link to Project Repository or Demo]
+   - Description: [Brief description of the project]
+   - Technologies Used: [List technologies used]
 
 
 ## Skills

@@ -12,9 +12,9 @@ Welcome to my GitHub portfolio! I'm Bhargav Dasari, passionate about AI and Mach
 ## Projects
 
 Here are some of the projects I've worked on:
-1. **Project Name**: [Link to Project Repository or Demo]
-   - Description: [Brief description of the project]
-   - Technologies Used: [List technologies used]
+1. **Project Name**: https://github.com/Bhargav-Dasari/kaggle-titanic
+   - Description: This is a deeplearning network that predicts the survival of test data on kaggle titanic dataset.
+   - Technologies Used: Numpy,Python3, Pandas, TensorFlow
 
 
 ## Skills

@@ -12,9 +12,9 @@ Welcome to my GitHub portfolio! I'm Bhargav Dasari, passionate about AI and Mach
 ## Projects
 
 Here are some of the projects I've worked on:
-1. **Project Name**: [Titanic Survival Predictor] (https://github.com/Bhargav-Dasari/titanic-survival-prediction)
-   - Description: This is a deeplearning network that predicts the survival of test data on kaggle titanic dataset.
-   - Technologies Used: Numpy,Python3, Pandas, TensorFlow
+1. **Project Name**: Titanic Survival Predictor (https://github.com/Bhargav-Dasari/titanic-survival-prediction)
+- Description: This is a deeplearning network that predicts the survival of test data on kaggle titanic dataset.
+- Technologies Used: Numpy,Python3, Pandas, TensorFlow
 
 
 ## Skills
